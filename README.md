@@ -27,4 +27,5 @@
 
  * Navegação da páginas;
  * Dashboard completo (conforme especificação);
- * Demais telas, apenas esqueleto.
+ * Cadastro: não implementado;
+ * Demais requisitos: parte da funcionalidade.
